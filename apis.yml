@@ -10,6 +10,17 @@ description: 'Abpro Holdings, Inc. is a clinical-stage biotechnology company hea
   software company: its public web surface is a corporate and investor-relations site,
   and it publishes no developer program, public API, SDK, webhook surface, or machine-readable
   specification of any kind.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://abpro.co/wp-content/uploads/2023/05/Abpro_logo_with_trademark-transparent.png
 url: https://raw.githubusercontent.com/api-evangelist/abpro/refs/heads/main/apis.yml
 x-type: company
